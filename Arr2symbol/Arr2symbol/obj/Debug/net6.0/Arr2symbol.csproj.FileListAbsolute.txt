@@ -1,0 +1,15 @@
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/bin/Debug/net6.0/Arr2symbol
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/bin/Debug/net6.0/Arr2symbol.deps.json
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/bin/Debug/net6.0/Arr2symbol.runtimeconfig.json
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/bin/Debug/net6.0/Arr2symbol.dll
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/bin/Debug/net6.0/Arr2symbol.pdb
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/Arr2symbol.csproj.AssemblyReference.cache
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/Arr2symbol.GeneratedMSBuildEditorConfig.editorconfig
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/Arr2symbol.AssemblyInfoInputs.cache
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/Arr2symbol.AssemblyInfo.cs
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/Arr2symbol.csproj.CoreCompileInputs.cache
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/Arr2symbol.dll
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/refint/Arr2symbol.dll
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/Arr2symbol.pdb
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/Arr2symbol.genruntimeconfig.cache
+/Users/_recrus/Desktop/Programming/GB/GB_choose/Arr2symbol/Arr2symbol/obj/Debug/net6.0/ref/Arr2symbol.dll
