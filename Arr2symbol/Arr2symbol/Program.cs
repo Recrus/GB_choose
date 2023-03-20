@@ -1,4 +1,4 @@
-﻿string[] items = {"1", "22", "33", "444", "-a"};
+﻿string[] items = {"1", "22", "33222", "4444", "-a"};
 
 void Main(string[] arr)
 {
@@ -6,7 +6,7 @@ void Main(string[] arr)
         string[] res = { };
         for (int i = 0; i < arr.Length; i++)
         {
-                if (arr[i].Length == 2)
+                if (arr[i].Length <= 3)
                 {
                         res = res.Append(arr[i]).ToArray();
                 }
@@ -14,7 +14,7 @@ void Main(string[] arr)
         Console.WriteLine("[{0}]", string.Join(", ", res));
         
         //second solution
-        // arr = arr.Where(val => val.Length == 2).ToArray();
+        // arr = arr.Where(val => val.Length <= 3).ToArray();
         // Console.WriteLine("[{0}]", string.Join(", ", arr));
 };
 
